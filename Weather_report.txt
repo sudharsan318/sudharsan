@@ -1,0 +1,5 @@
+------------salem-------------
+Temperature: 300.85
+Humidity: 46
+Pressure: 1010
+Weather Report: ['description']
